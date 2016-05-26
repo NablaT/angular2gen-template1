@@ -1,0 +1,13 @@
+@import '../../shared/styles/variables';
+
+.item > a{
+  color:$fontColor;
+  padding-top:50px;
+}
+
+.item{
+  text-align: center;
+  box-shadow: -1px 0 0 0 rgba(255, 255, 255, 0.065), inset -1px 0 0 0 rgba(255, 255, 255, 0.065);
+  height:100%;
+}
+
